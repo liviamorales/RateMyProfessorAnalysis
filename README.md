@@ -2,7 +2,7 @@
 *NYU Data Science Capstone Project*
 
 ## Overview
-This poject analyzes RateMyProfessor data to assess whether factors like gender, course difficulty, and teaching modality impact student ratings of professors. Statistical testing and regression models are applied to assess potential biases and predictors of higher professor ratings.
+This project analyzes RateMyProfessor data to assess whether factors like gender, course difficulty, and teaching modality impact student ratings of professors. Statistical testing and regression models are applied to assess potential biases and predictors of higher professor ratings.
 
 ## Key Analyses
 - Assessed gender bias in student evaluations
