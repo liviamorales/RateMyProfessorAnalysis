@@ -8,7 +8,7 @@ This project analyzes RateMyProfessor data to assess whether factors like gender
 - Assessed gender bias in student evaluations
 - Examined the impact of course difficulty on professor ratings
 - Compared ratings for online vs. in-person teaching
-- Evaluated the influence of "pepper" status and class re-take likelihood
+- Evaluated the influence of "pepper" status and likelihood of retaking the class
 - Built regression and classification models to predict professor ratings and pepper status
 
 ## Files
