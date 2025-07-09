@@ -1,7 +1,7 @@
 # Professor Effectiveness Data Analysis
 *NYU Data Science Capstone Project*
 
-##Overview
+## Overview
 This poject analyzes RateMyProfessor data to assess whether factors like gender, course difficulty, and teaching modality impact student ratings of professors. Statistical testing and regression models are applied to assess potential biases and predictors of higher professor ratings.
 
 ## Key Analyses
