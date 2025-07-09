@@ -28,7 +28,7 @@ from sklearn.model_selection import train_test_split
 
 #seed with n-number 
 
-n_number = "N12392083"
+n_number = "..."
 seed_value = int(n_number[1:])
 np.random.seed(seed_value)
 random.seed(seed_value)
